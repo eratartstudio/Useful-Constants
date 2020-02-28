@@ -1,2 +1,1 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.eratart.useful.constants" />
+<manifest package="com.eratart.useful.constants" />
