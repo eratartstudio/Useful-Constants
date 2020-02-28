@@ -1,0 +1,3 @@
+rootProject.name='Useful Constants'
+include ':app'
+include ':useful-constants'
